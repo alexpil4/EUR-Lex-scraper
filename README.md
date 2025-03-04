@@ -62,7 +62,7 @@ Feel free to fork and submit pull requests for improvements, bug fixes, or new f
 
 For any issues, open an issue in the repository.
 
-## Donations
+## Support
 
 If you find this project helpful and would like to support its development, you can make a donation via PayPal:
 
